@@ -1,0 +1,12 @@
+body{margin:0;min-height:100vh;display:flex;justify-content:center;align-items:center;background:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.55)),url('https://images.unsplash.com/photo-1519817650390-64a93db51149?w=1200') center/cover no-repeat;font-family:sans-serif}
+.container{width:30%;height:30%;background:transparent;
+border-radius: 50%;
+backdrop-filter:clean(8px);border:1.8px solid #c9a94b;border-radius:7px;padding:88px 88px;text-align:center;box-shadow:6px}
+h1{color:#f5e6a8;font-size:14px;line-height:1.1;text-shadow:0 0 8px gold;margin:0}
+#count{font-size:38px;color:#f9e48a;margin:6px 0;text-shadow:0 0 15px gold;font-weight:bold}
+.btn-group{display:flex;justify-content:center;gap:9px;margin:8px 0}
+button{flex:1;padding:6px 0;font-size:13px;font-weight:bold;border-radius:20%;cursor:pointer;background:linear-gradient(#f9eab0,#d4af37);border:1px solid #d4af37;color:#0e2f20;box-shadow:none}
+button:first-of-type{background:linear-gradient(#f9eab0,#d4af37);border:1px solid #d4af37;color:#0e2f20;box-shadow:none}
+#reset{background:linear-gradient(#f9eab0,#d4af37);color:#0e2f20;border:1px solid #d4af37}
+p{color:#f5e6a8;background:rgba(0,0,0,0.35);padding:4px 10px;border-radius:0;display:inline-block;margin-top:6px;font-size:9px}
+Displaying index.html. 
