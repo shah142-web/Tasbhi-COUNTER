@@ -8,9 +8,9 @@ This project is an important step in my coding journey. It helped me understand 
 
 🌟 Features
 
-- ▶️ Start the stopwatch
+- ▶️ Start the counter
 - ⏸️ Stop the timer
-- 🔄 Reset the stopwatch
+- 🔄 Reset the counter
 - ⏱️ Real-time time tracking
 - 🎨 Simple and attractive user interface
 - 📱 Beginner-friendly design
