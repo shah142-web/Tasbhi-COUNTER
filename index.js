@@ -14,5 +14,3 @@ setInterval(function() {
     time++;
     document.getElementById("time").innerText = time;},1000)
 
-Zoom out
-Displaying index.html. 
